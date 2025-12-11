@@ -4,7 +4,7 @@ export default function Home() {
 
       {/* Navbar */}
       <nav className="w-full px-10 py-5 bg-[#001d15] flex justify-between items-center">
-        <h1 className="font-bold text-xl">MyTools x Project</h1>
+        <h1 className="font-bold text-xl">Shockify x Immortal</h1>
 
         <ul className="flex gap-8 text-gray-300 text-sm">
           <li><a href="#">Home</a></li>
